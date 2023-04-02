@@ -1,6 +1,6 @@
-## Apichat Photi-a
+# Apichat Photi-a
 
-# Presentation
+## Presentation
 
 This is Apichat's Presentation repository which is a comprehensive repository that provides a range of materials to help individuals develop their presentation skills. This repository is a collection of slides, templates, and resources that can be used to create engaging and impactful presentations. 
 
